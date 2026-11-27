@@ -52,10 +52,6 @@ Minista is made by The Fort Church Media for churches and media teams who want e
 
 Found a bug, or need something Minista doesn't do yet? [Open an issue](https://github.com/phenomenalphilip/minista-releases/issues). Tell us your Minista version (Help → About) and what you were doing when it happened.
 
-## About this repository
-
-This repository holds Minista's installers and release notes. The source code is kept private.
-
 ---
 
 <p align="center">© The Fort Church Media. Minista is free to use.</p>
